@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/poetryTest.iml" filepath="$PROJECT_DIR$/poetryTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imdb-top250-database-poetry.iml" filepath="$PROJECT_DIR$/imdb-top250-database-poetry.iml" />
     </modules>
   </component>
 </project>
